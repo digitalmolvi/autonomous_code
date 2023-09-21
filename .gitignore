@@ -1,0 +1,11 @@
+# Ignore .env file
+.env
+
+# Ignore the env directory
+env/
+
+# Ignore the .vscode directory
+.vscode/
+
+# Ignore db.sqlite3 file
+db.sqlite3
