@@ -13,7 +13,7 @@
 body, html{
      height: 100%;
  	background-repeat: no-repeat;
- 	background:url(https://i.ytimg.com/vi/4kfXjatgeEU/maxresdefault.jpg);
+ 	background:url(https://media.licdn.com/dms/image/C4E1BAQEUiYbU_xae1g/company-background_10000/0/1640604024957?e=1695952800&v=beta&t=mSFul8lAfkifnFRS7qJ6cpOPlN3ZfQ4GsrlzngyJx_o);
  	font-family: 'Oxygen', sans-serif;
 	    background-size: cover;
 }
@@ -103,7 +103,7 @@ box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.31);
 
 }
 span.input-group-addon i {
-    color: #009edf;
+    color: #0A66C2;
     font-size: 17px;
 }
 
@@ -197,7 +197,7 @@ BACKGROUND COLORS
 }
 
 .db-bk-color-two {
-    background-color: #46A6F7;
+    background-color: #FFF;
 }
 
 .db-bk-color-three {

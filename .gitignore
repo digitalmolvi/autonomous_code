@@ -9,3 +9,9 @@ env/
 
 # Ignore db.sqlite3 file
 db.sqlite3
+
+# Ignore migrations directories
+**/migrations/
+
+# Ignore __pycache__ directories
+**/__pycache__/
